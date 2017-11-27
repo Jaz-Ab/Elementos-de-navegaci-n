@@ -3,21 +3,21 @@
 
 ## Navegación Global
 
-![Breather](assets/docs/breather.png)
+![Breather](assets/images/Breather/breather.png)
 
 ## Navegación Local
 
-![Breather](assets/docs/breather2.png)
+![Breather](assets/images/Breather/breather2.png)
 
 ## Navegación Filtrada
 
-![Breather](assets/docs/breather3.png)
+![Breather](assets/images/Breather/breather3.png)
 
-![Breather](assets/docs/breather5.png)
+![Breather](assets/images/Breather/breather5.png)
 
 ## Navegación Facetada
 
-![Breather](assets/docs/breather4.png)
+![Breather](assets/images/Breather/breather4.png)
 
 
 # Github
@@ -25,19 +25,19 @@
 
 ## Navegación Global
 
-![Github](assets/docs/github.png)
+![Github](assets/images/Github/github.png)
 
 ## Navegación Facetada
 
-![Github](assets/docs/github2.png)
+![Github](assets/images/Github/github2.png)
 
 ## Navegación En Línea
 
-![Github](assets/docs/github3.png)
+![Github](assets/images/Github/github3.png)
 
 ## Navegación Filtrada
 
-![Github](assets/docs/github4.png)
+![Github](assets/images/Github/github4.png)
 
 
 # Medium
@@ -45,15 +45,15 @@
 
 ## Navegación Global
 
-![Medium](assets/docs/medium.png)
+![Medium](assets/images/Medium/medium.png)
 
 ## Navegación Contextual
 
-![Medium](assets/docs/medium2.png)
+![Medium](assets/images/Medium/medium2.png)
 
-![Medium](assets/docs/medium4.png)
+![Medium](assets/images/Medium/medium4.png)
 
 ## Navegación en Línea
 
-![Medium](assets/docs/medium3.png)
+![Medium](assets/images/Medium/medium3.png)
 
